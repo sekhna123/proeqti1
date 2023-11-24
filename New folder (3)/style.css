@@ -1,0 +1,61 @@
+img{
+    width: 100%;
+    height: 100%;
+}
+.container-fluid{
+    background-color: orange;
+}
+.container-md{
+    background-color: black;
+}
+.navbar-brand{
+    color: aliceblue;
+}
+a:hover{
+    background-color: orange;}
+.parent{
+    z-index: -1;
+    text-align: center;
+}
+h1{
+    color: orange;
+}
+h2{
+    color: white;
+}
+body{
+    background-color: black;
+}
+.container{
+    background-color: #000025;
+}
+.text{
+    color: white;
+}
+.col-md-4{
+    width: 926px;
+height: 500px;
+}
+.card{
+    background-color: #000025;
+}
+.card-title{
+    color: orange;
+}
+h6{
+    color: white;
+}
+.card-text{
+    color: white;
+}
+h1{
+    color: orange;}
+.under-title{ 
+    color: white;
+}
+.under-title2{
+    color: orange;
+}
+h3{
+    color: white;
+}
